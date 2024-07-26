@@ -4,7 +4,7 @@
 This code is a basic example for educational purposes only. It does not provide secure encryption. For production-grade applications, consider using strong encryption algorithms and secure key management practices.
 
 ## Description:
-This Python script creates a simple graphical user interface (GUI) application that allows users to encrypt and decrypt text. The current implementation uses base64 encoding, which is not secure.
+This Python script creates a simple graphical user interface (GUI) application that allows users to encrypt and decrypt text. The current implementation uses base64 encoding.
 
 ## Usage:
 
