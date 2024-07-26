@@ -8,37 +8,40 @@ This Python script creates a simple graphical user interface (GUI) application t
 
 ## Usage:
 
-Run the Python script.
-Enter the text you want to encrypt or decrypt.
-Enter the password (currently hardcoded as "1234").
-Click the "Encrypt" or "Decrypt" button.
+1. Run the Python script.
+2. Enter the text you want to encrypt or decrypt.
+3. Enter the password (currently hardcoded as "1234").
+4. Click the "Encrypt" or "Decrypt" button.
 
 ## Limitations:
 
-Uses insecure base64 encoding.
-Hardcoded password for decryption.
-Basic GUI with limited functionality.
+1. Uses insecure base64 encoding.
+2. Hardcoded password for decryption.
+3. Basic GUI with limited functionality.
 
 ## Improvements:
 
-Implement strong encryption algorithms like AES.
-Use secure key management practices.
-Enhance the GUI with features like file saving, loading, and copy/paste.
-Improve error handling and user feedback.
+1. Implement strong encryption algorithms like AES.
+2. Use secure key management practices.
+3. Enhance the GUI with features like file saving, loading, and copy/paste.
+4. Improve error handling and user feedback.
 
 ## Dependencies:
 
-tkinter
-messagebox
-base64
+1. tkinter
+2. messagebox
+3. base64
 
 ## How to Run:
 
-Save the code as a Python file (encap64.py).
-Open a terminal or command prompt.
-Navigate to the directory containing the script.
-Run the script using python encap64.py.
+1. Save the code as a Python file (encap64.py).
+2. Open a terminal or command prompt.
+3. Navigate to the directory containing the script.
+4. Run the script using python encap64.py.
 
 ## Security Warning:
 
 The provided code is not secure for sensitive data. Use it for educational purposes only.
+
+
+![Example of execution]
