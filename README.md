@@ -44,4 +44,4 @@ This Python script creates a simple graphical user interface (GUI) application t
 The provided code is not secure for sensitive data. Use it for educational purposes only.
 
 
-![Example of execution]
+![Example of execution](code/screenshot.png)
